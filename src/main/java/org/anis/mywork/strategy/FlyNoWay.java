@@ -1,4 +1,4 @@
-package org.anis.mywork.Strategy;
+package org.anis.mywork.strategy;
 
 public class FlyNoWay implements FlyBehavior {
 	public void fly() {

@@ -1,4 +1,4 @@
-package org.anis.mywork.Strategy;
+package org.anis.mywork.strategy;
 
 public abstract class Duck {
     FlyBehavior flyBehavior;

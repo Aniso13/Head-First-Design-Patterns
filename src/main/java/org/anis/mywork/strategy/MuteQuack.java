@@ -1,4 +1,4 @@
-package org.anis.mywork.Strategy;
+package org.anis.mywork.strategy;
 
 public class MuteQuack implements QuackBehavior {
 	public void quack() {
