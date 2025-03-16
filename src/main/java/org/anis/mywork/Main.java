@@ -1,9 +1,9 @@
 package org.anis.mywork;
 
-import org.anis.mywork.Strategy.Duck;
-import org.anis.mywork.Strategy.FlyRocketPowered;
-import org.anis.mywork.Strategy.MallardDuck;
-import org.anis.mywork.Strategy.ModelDuck;
+import org.anis.mywork.strategy.Duck;
+import org.anis.mywork.strategy.FlyRocketPowered;
+import org.anis.mywork.strategy.MallardDuck;
+import org.anis.mywork.strategy.ModelDuck;
 
 /*
 * The Strategy Pattern defines a family of algorithms,
